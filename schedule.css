@@ -1,31 +1,30 @@
 * {
-	padding:5px;
+	padding:6px;
 	margin:0;
 }
 
 body 
     {
-        background-color: pink;
+        background-color: #ffd7ba;
 	border:10px solid grey;
     }
 table{
-	margin-top: 50px;
-	margin-left: 65px;
+	margin-top: 10px;
+	margin-left: 100px;
 	border-spacing: 0;    
-	border: 5px;
 	float: center;
      }
 
-p1   {	color:black;
+p1   {	color:grey;
 	font-family: rockwell;
- 	font-size: 80px;
+ 	font-size: 60px;
 	text-align:center;
       }
 
-p    {	color: black;
+p    {	color: grey;
 	font-family: courier new;
 	text-align: center;
-	font-size:25px
+	font-size:20px
      }
 
 td   {	color: black;
@@ -33,13 +32,13 @@ td   {	color: black;
      	font-size: 20px;
         padding: 10px;
 	text-align:center;
-	border: 2px solid;
+	border: 1px solid black;
       }
-.row {	background-color: #E4CEE0;
+.row {	background-color: #ffd7ba;
 	text-align: center;
      }
 	
 th   {	height: 50px;
 	width: 80px;
-	border: 2px solid grey;
+	border: 1px solid black;
      }
