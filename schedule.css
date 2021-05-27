@@ -1,0 +1,45 @@
+* {
+	padding:5px;
+	margin:0;
+}
+
+body 
+    {
+        background-color: pink;
+	border:10px solid grey;
+    }
+table{
+	margin-top: 50px;
+	margin-left: 65px;
+	border-spacing: 0;    
+	border: 5px;
+	float: center;
+     }
+
+p1   {	color:black;
+	font-family: rockwell;
+ 	font-size: 80px;
+	text-align:center;
+      }
+
+p    {	color: black;
+	font-family: courier new;
+	text-align: center;
+	font-size:25px
+     }
+
+td   {	color: black;
+     	font-family: rockwell;
+     	font-size: 20px;
+        padding: 10px;
+	text-align:center;
+	border: 2px solid;
+      }
+.row {	background-color: #E4CEE0;
+	text-align: center;
+     }
+	
+th   {	height: 50px;
+	width: 80px;
+	border: 2px solid grey;
+     }
